@@ -1,0 +1,20 @@
+{
+  "name": "Kalorietracker",
+  "short_name": "Kalorier",
+  "description": "Registrer mad, vægt, BMI og daglige kalorier.",
+  "start_url": "./calorie-tracker-mvp.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f7faf8",
+  "theme_color": "#1c7c69",
+  "categories": ["health", "fitness", "lifestyle"],
+  "icons": [
+    {
+      "src": "./app-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
